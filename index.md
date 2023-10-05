@@ -39,7 +39,8 @@
 
 # [대표 이미지]
 
-![그림](img/myimg.png)
+![myimg](https://github.com/Hixdxd/fair/assets/127164236/e71b96ad-c0cc-42b1-a6f7-73e9293624b5)
+
 
 <br><br>
 
