@@ -34,7 +34,7 @@
   ![image](https://github.com/Hixdxd/fair/assets/127164236/73803388-ed3c-4dee-bf03-a3b0b70f700c)
 - 동영상
   [![image](https://github.com/Hixdxd/fair/assets/127164236/aa10d628-79b6-46df-9cd5-3a70b4ffa74c)
-]([https://www.youtube.com/watch?v=5xy4n73WOMM](https://youtu.be/_eTwBvTUYiY?si=zVM2_WZt3YGK2b9w))
+](https://youtu.be/_eTwBvTUYiY?si=zVM2_WZt3YGK2b9w)
 
 <br><br>
 
