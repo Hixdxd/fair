@@ -39,7 +39,7 @@
 
 # [대표 이미지]
 
-![그림](hixdxd/img/myimg.png)
+![그림](img/myimg.png)
 
 <br><br>
 
